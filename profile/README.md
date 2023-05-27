@@ -3,7 +3,7 @@
 `nuff-said` is a collection of ultra-compact JavaScript libraries designed specifically for small use cases.
 
 These libraries are meticulously crafted to provide the essential functionality you need while maintaining an incredibly small code footprint.
-With `nuff-said`, you can minimize your project's dependencies,optimize load times, and streamline your development process.
+With `nuff-said`, you can minimize your project's dependencies, optimize load times, and streamline your development process.
 
 ## Why?
 - **Minimal Size**: Each `nuff-said` focuses on providing a specific functionality in the smallest possible code size.
