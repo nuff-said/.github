@@ -19,6 +19,7 @@ With `nuff-said`, you can minimize your project's dependencies, optimize load ti
 
 Each of the following libraries have been meticulously hand-golfed for the smallest bundle size.
 - [`@nuff-said/color`](https://npm.im/@nuff-said/color): 40 terminal color styles in 227b of code
+- [`@nuff-said/args`](https://npm.im/@nuff-said/args): a comprehensive argument parser in 325 bytes
 
 ## Contributing
 We welcome contributions to `nuff-said`!
